@@ -18,6 +18,10 @@ The dataset includes the following columns:
 - **Storage** 
 - **Price**:
 - **Location**
+  
+## Cloning the Repository
+
+git clone https://github.com/sina4404/E2E-data-analysis_realstate_tehran.git
 
 ## Running the Scraped Data
 
