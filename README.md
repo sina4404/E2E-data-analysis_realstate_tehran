@@ -16,7 +16,7 @@ The dataset includes the following columns:
 - **Floor Number**
 - **Parkings** 
 - **Storage** 
-- **Price**:
+- **Price**
 - **Location**
   
 ## Cloning the Repository
