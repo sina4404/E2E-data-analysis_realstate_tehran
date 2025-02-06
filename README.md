@@ -20,9 +20,9 @@ The dataset includes the following columns:
 - **Location**
   
 ## Cloning the Repository
-
-git clone https://github.com/sina4404/E2E-data-analysis_realstate_tehran.git
-
+  ```bash
+  git clone https://github.com/sina4404/E2E-data-analysis_realstate_tehran.git
+  ```
 ## Running the Scraped Data
 
 To run the scraped data, follow these steps:
