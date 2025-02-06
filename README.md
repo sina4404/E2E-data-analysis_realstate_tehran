@@ -1,6 +1,6 @@
 # Tehran Real Estate Analysis
 
-This is an end-to-end project, covering data scraping, linear modeling, and visualization.
+This is an end-to-end project, covering data scraping, cleaning, modeling, and visualization.
 - You can find visualizations in the `eda` folder.
 - You can find modeling in the `modeling` folder.
 - How is the data cleaned? `cleaning` folder.
