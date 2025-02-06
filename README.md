@@ -1,6 +1,9 @@
 # Tehran Real Estate Analysis
 
-This is an end-to-end project, covering data scraping, linear modeling, and visualization. You can also find visualizations in the `eda` folder.
+This is an end-to-end project, covering data scraping, linear modeling, and visualization.
+You can find visualizations in the `eda` folder.
+You can find modeling in the `modeling` folder.
+How is the data cleaned? 'cleaning' folder.
 
 This project involves scraping data from a real estate finding home website. The dataset contains over 3000 rows with various columns such as area, building year, floor number, parkings, storage, price, and location. The data was scraped on 05/11/1403 (Shamsi calendar).
 
